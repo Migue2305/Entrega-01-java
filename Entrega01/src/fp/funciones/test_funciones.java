@@ -107,7 +107,7 @@ public class test_funciones {
         cadenas.add("Hola");
         cadenas.add("Esta es la cadena mas larga");
         cadenas.add("Una cadena larga");
-        cadenas.add("Cadena");
+        cadenas.add("Cadenas");
         System.out.println("Cadena más larga: " + cadenaMasLarga(cadenas));
     }
 }
